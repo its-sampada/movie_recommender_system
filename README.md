@@ -18,7 +18,7 @@ https://movierecommendersystem-g7ypwgmqr2uqmksb6b9s2h.streamlit.app/
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 * **Language:** Python 3.x
 * **Frontend:** Streamlit
 * **Data Handling:** Pandas, NumPy, Pickle
